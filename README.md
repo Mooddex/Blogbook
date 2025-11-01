@@ -1,6 +1,9 @@
-# 📝 Fullstack Blogging Platform
+# 📝 Fullstack Blogging Platform — Blogbook
 
-A modern, fullstack blogging platform built with **React** and **Next.js**, powered by **MongoDB**, styled with **Tailwind CSS**, and using **React Query** for data fetching and caching.
+A modern, full-stack blogging platform built with **Next.js**, **React**, **MongoDB**, **Tailwind CSS**, and **React Query**.  
+Create, manage, and publish blogs seamlessly with a clean UI and efficient backend workflows.
+
+👉 **Live Demo:** https://blogbook-ten.vercel.app/
 
 ![App Screenshot](https://res.cloudinary.com/deq0w5tnr/image/upload/v1754612076/2025-08-08-031321-create-next-app-screenclip_q8ucrz.jpg)
 
@@ -8,12 +11,12 @@ A modern, fullstack blogging platform built with **React** and **Next.js**, powe
 
 ## 🚧 Requirements
 
-* ✅ Next.js
-* ✅ React Hooks (functional components only)
-* ✅ Tailwind CSS
-* ✅ React Query
-* ✅ MongoDB
-* ✅ Node.js + Express (Backend)
+- ✅ Next.js
+- ✅ React Hooks (functional components only)
+- ✅ Tailwind CSS
+- ✅ React Query
+- ✅ MongoDB
+- ✅ Node.js + Express (Backend)
 
 ---
 
@@ -32,44 +35,52 @@ A modern, fullstack blogging platform built with **React** and **Next.js**, powe
 
 ## 🧩 Core Features
 
-* ✅ 🔐 **Login**
-* ✅ 🧾 **Signup**
-* ✅ 📝 **Create Blog**
-* ✅ 📖 **Read Blog**
-* ✅ ✏️ **Update Blog**
-* ✅ ❌ **Delete Blog**
-* ⏳ 🔁 **Forgot Password**
-* ⏳ 👤 **User Role Access** (Admin / Author / Reader)
-* ⏳ 💬 **Comments & Likes**
-* ⏳ 🔍 **Blog Search & Filtering**
-* ✅ 📱 **Responsive Design**
-* ✅ 📈 **Dashboard or Analytics View**
+✅ 🔐 **Login**  
+✅ 🧾 **Signup**  
+✅ 📝 **Create Blog**  
+✅ 📖 **Read Blog**  
+✅ ✏️ **Update Blog**  
+✅ ❌ **Delete Blog**  
+✅ 📱 **Responsive Design**  
+✅ 📈 **Dashboard / Analytics View**  
+⏳ 🔁 **Forgot Password**  
+⏳ 👤 **User Roles (Admin / Author / Reader)**  
+⏳ 💬 **Comments & Likes**  
+⏳ 🔍 **Blog Search & Filtering**
 
 ---
 
 ## 🚀 Deployment Checklist
 
-* ⏳ 🌐 Frontend deployed (Vercel / Netlify)
-* ⏳ 🚀 Backend deployed (Render / Railway / Fly.io)
-* ⏳ 🛢️ Database hosted (MongoDB Atlas / Supabase / Neon)
-* ✅ 🔐 Environment variables configured
+- ✅ 🌐 Frontend deployed (Vercel)
+- ✅ 🛢️ Database hosted (MongoDB Atlas)
+- ✅ 🔐 Environment variables configured
 
 ---
 
 ## 🧪 Testing Checklist
 
-* ✅ ✅ **Unit tests** (routes & models)
-* ✅ 🧪 **Component tests** (React)
-* ✅ 🔐 **Auth flow tests** (login, signup, logout)
-* ✅ 📄 **Blog CRUD operation tests**
-* ✅ 🚫 **Access control tests** (protected routes)
+- ✅ ✅ **Unit tests** (routes & models)
+- ✅ 🧪 **Component tests** (React)
+- ✅ 🔐 **Auth flow tests** (login, signup, logout)
+- ✅ 📄 **Blog CRUD operation tests**
+- ✅ 🚫 **Access control tests** (protected routes)
 
 ---
 
-## 🧪 Local Setup
+## 🌐 Live Demo
 
-### 🔧 Prerequisites
+🔗 Visit: https://blogbook-ten.vercel.app/
 
-* Node.js v18+
-* MongoDB (local or Atlas)
-* npm
+---
+
+More sections (optional) I can add for you:
+✅ Installation  
+✅ Environment setup  
+✅ API documentation  
+✅ Screenshots  
+✅ Folder structure  
+✅ Contributing  
+✅ License  
+
+Want me to add these?
