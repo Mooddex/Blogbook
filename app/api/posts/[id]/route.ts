@@ -13,8 +13,8 @@ export async function GET(
 
     const { id } = context.params;
 
-    const post = await Post.findById(id).populate("author", "username");
-
+    const post = await Post.findById(id)
+// .populate("author", "username");
     if (!post) {
       return NextResponse.json({ message: "Post not found" }, { status: 404 });
     }
